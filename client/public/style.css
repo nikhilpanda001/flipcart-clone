@@ -1,0 +1,61 @@
+footer {
+    background-color: #172337;
+    color: rgb(226, 226, 226);
+    padding-top: 3%;
+}
+
+.Footer h6 {
+    color: #878787;
+    font-size: .8em;
+}
+
+.Footer>div {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    font-size: .75em;
+    font-weight: 100;
+}
+
+.Footer a {
+    color: white;
+    line-height: 1.3rem;
+    /* text-decoration: underline; */
+}
+
+.Footer p {
+    margin: 0;
+    font-size: .96em;
+    line-height: 1.2rem;
+}
+
+footer i {
+    color: gold;
+}
+
+footer span {
+    font-size: .75em;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* Information */
+.information {
+    background-color: white;
+    color: #878787;
+    margin: 2% 0%;
+}
+
+.information h1 {
+    font-size: 1.5em;
+}
+
+.information h2 {
+    font-size: 1.2em;
+}
+
+.info {
+    font-size: .8em;
+    padding-bottom: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
