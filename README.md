@@ -1,6 +1,8 @@
 # Flipkart-clone
 MERN stack project
 
+## DEMO
+## <a href="https://www.youtube.com/watch?v=YJFCw2ftyUU&ab_channel=EzzyXd" target="_blank">VIEDO DEMO</a>
 
 ##SCREENSHOTS
 ![Web capture_5-1-2022_142717_localhost](https://user-images.githubusercontent.com/79313369/148190436-2db353a3-6f04-4a1b-bc9b-6ee809be8b71.jpeg)
